@@ -1,1 +1,0 @@
- commit revert agr ap apne commit ko push  krdo baad mn ap nah krna chaho to esse undo nehi krna Esko revert kren ge ye phirr online aur local 2no mn file ko delete krde ga
